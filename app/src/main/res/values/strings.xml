@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Trainee-Path-task-7</string>
+    <string name="app_name">Задание № 7</string>
+
+    <string name="simple_notification_button_text">Create simple notification</string>
+    <string name="cancel_notification_button_text">Clear notification</string>
+
+    <string name="notification_title">Ха!</string>
+    <string name="notification_text">Я таки умею создавать оповещения!</string>
+    <string name="notification_received_text">Текст после уведомления</string>
 </resources>
